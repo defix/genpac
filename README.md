@@ -1,3 +1,6 @@
+**简单修改，兼容python 3.10**
+
+
 # GenPAC
 
 [![pypi-version]][pypi] [![pypi-license]][pypi] [![travis-ci-status]][travis-ci]
